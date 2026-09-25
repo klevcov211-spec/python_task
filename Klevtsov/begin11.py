@@ -1,0 +1,8 @@
+a=int(input())
+b=int(input())
+c=abs(a)
+s=abs(b)
+print(c+s)
+print(c-s)
+print(c*s)
+print(c/s)
