@@ -1,0 +1,10 @@
+a=float(input())
+b=float(input())
+c=float(input())
+a1=a
+b1=b
+c1=c
+b=c1
+c=a1
+a=b1
+print(a,b,c)

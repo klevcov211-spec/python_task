@@ -1,0 +1,8 @@
+x=float(input())
+a=float(input())
+y=float(input())
+b=float(input())
+price1kgChok=(a/x)
+price1kgiris=(b/y)
+print(price1kgChok+price1kgiris)
+print(price1kgChok/price1kgiris)
