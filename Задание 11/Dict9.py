@@ -1,0 +1,9 @@
+n={"hello":1,
+   "dog":2,
+   "cat":3,
+}
+m={"hi":1,
+   "home":2,
+   "horse":3,}
+n.update(m)
+print(len(n))
