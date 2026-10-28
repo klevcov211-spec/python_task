@@ -1,0 +1,5 @@
+N1 = int(input())
+N2 = int(input())
+S1 = input()
+S2 = input()
+print((S1 * N1) + (S2 * N2))
